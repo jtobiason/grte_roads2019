@@ -3,7 +3,7 @@
 
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"name":"Highway 26","section":"Moran to East Boundary"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
