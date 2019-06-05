@@ -2,11 +2,8 @@
 [{
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "name": "Antelope Flats Road",
-        "section": "Craighead Hill to Kelly Road"
+        "section": "Craighead Hill to East Boundary Road"
       },
       "geometry": {
         "type": "LineString",
